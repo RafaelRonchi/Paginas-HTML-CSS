@@ -1,0 +1,193 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+footer{
+    background-color: aliceblue;
+    padding: 30px;
+    padding-right: 60px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+footer h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-bottom: 60px;
+    text-align: center;
+    margin-left: 60px;
+    color: rgb(7, 10, 189);
+}
+footer p{
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 10px;
+    line-height: 1.5;
+}
+header ul {
+    display:inline-flex;
+}
+header ul li{
+    list-style: none;
+    margin-right: 10px;
+}
+.img-inicial{
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.destaques{
+    margin-left: 55%;
+    margin-right: 10%;
+    
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    padding-right: 60px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+.dest1 h6{
+    color: rgb(7, 10, 189);
+}
+.dest1{
+    margin-top: -383%;
+}
+.dest2 h6{
+    color: rgb(183, 202, 8);
+}
+.dest2{
+    margin-top: 400px;
+}
+.dest3 h6{
+    color: rgb(202, 8, 8);
+}
+.dest3{
+    margin-top: 400px;
+}
+.dest4 h6{
+    color: rgb(5, 177, 20);
+}
+.dest4{
+    margin-top: 400px;
+}
+.destaques h6{
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-bottom: 60px;
+    text-align: center;
+    margin-left: 60px;
+    
+}
+
+.destaques ul li{
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+    text-align: justify;
+    text-indent: 10px;
+    margin-bottom: 30px;
+    
+}
+
+
+.header-nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: all .2s;
+}
+.header-nav a:hover{
+    color: rgb(38, 0, 255);
+    transition: all .2s;
+}
+
+.header-logo img{
+    width: 110px;
+    margin-right: 300px;
+    padding: 2px;
+    transition: all .5s;
+}
+.header-logo img:hover{
+    border: 1px solid black;
+    border-radius: 30px;
+    transition: all .5s;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-right: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: -8px;
+    margin-bottom: 8%;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+.title{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.title h1{
+    font-size: 40px;
+    color: rgb(3, 5, 80);
+}
+.header-icons{
+    margin-left: 11em;
+}
+.header-icons a{
+    font-size: 30px;
+    margin-right: 10px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 100%;
+    transition: all .5s;
+}
+
+.header-icons a:hover{
+    color: rgb(38, 0, 255);
+    background-color: black;
+    padding: 10px;
+    border-radius: 100%;
+    transition: all .5s;
+}
+
+.todo{
+    margin-right: 50%;
+    margin-left: 20%;
+}
+.todo p{
+    font-size: 16px;
+    text-align: justify;
+    text-indent: 10px;
+    line-height: 1.5;
+}
+.todo h2{
+    font-size: 24px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    text-align: center;
+    
+    color: rgb(5, 7, 99);
+}
+
+
+.img-1{
+    width: 100%;
+    height: 40%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
